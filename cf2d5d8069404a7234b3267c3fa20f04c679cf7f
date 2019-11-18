@@ -1,0 +1,1 @@
+{"jobID":"62a48938-cee4-1ad3-c8e2-b0f1479aafb9","spec":{"type":"policy","cause":{"Message":"","User":"Harini S \u003charini19@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
